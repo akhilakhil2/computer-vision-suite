@@ -46,8 +46,7 @@ How to Use
     Clone the Repository:
     Bash
 
-    git clone https://github.com/your-username/airbus-aircraft-detection.git
-    cd airbus-aircraft-detection
+    git clone https://github.com/akhilakhil2/computer-vision-suite.git
 
     Run the Notebook:
     Open airbus-detection1.ipynb in Google Colab or a local Jupyter environment and run the cells sequentially.
